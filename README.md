@@ -28,4 +28,4 @@ The Blood Bank Management System is designed to manage blood donor information, 
 To automate blood bank operations and ensure quick availability of blood during emergencies.
 
 ## Author
-Your Name
+sruthikaramesh
